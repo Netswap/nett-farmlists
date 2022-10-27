@@ -1,0 +1,11 @@
+{
+    "name": "BoostedNETTFarms",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "timestamp": "2022-10-27T00:00:00+00:00",
+    "address": "",
+    "farms": []
+}

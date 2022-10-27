@@ -1,0 +1,132 @@
+{
+    "name": "NETTFarms",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "timestamp": "2022-10-27T00:00:00+00:00",
+    "address": "0x9d1dbB49b2744A1555EDbF1708D64dC71B0CB052",
+    "farms": [
+        {
+            "id": 0,
+            "name": "NETT-m.USDT",
+            "pair": "0x7d02ab940d7dd2b771e59633bbc1ed6ec2b99af1",
+            "allocPoint": 0
+        },
+        {
+            "id": 1,
+            "name": "NETT-m.USDC",
+            "pair": "0x0724d37522585e87d27c802728e824862dc72861",
+            "allocPoint": 0
+        },
+        {
+            "id": 2,
+            "name": "NETT-Metis",
+            "pair": "0x60312d4ebbf3617d3d33841906b5868a86931cbd",
+            "allocPoint": 1000
+        },
+        {
+            "id": 3,
+            "name": "NETT-WETH",
+            "pair": "0xc8ae82a0ab6ada2062b812827e1556c0fa448dd0",
+            "allocPoint": 0
+        },
+        {
+            "id": 4,
+            "name": "NETT-BNB",
+            "pair": "0x3bf77b9192579826f260bc48f2214dfba840fce5",
+            "allocPoint": 0
+        },
+        {
+            "id": 5,
+            "name": "Metis-WETH",
+            "pair": "0x59051b5f5172b69e66869048dc69d35db0b3610d",
+            "allocPoint": 2000
+        },
+        {
+            "id": 6,
+            "name": "Metis-m.USDT",
+            "pair": "0x3d60afecf67e6ba950b499137a72478b2ca7c5a1",
+            "allocPoint": 0
+        },
+        {
+            "id": 7,
+            "name": "Metis-m.USDC",
+            "pair": "0x5ae3ee7fbb3cb28c17e7adc3a6ae605ae2465091",
+            "allocPoint": 1000
+        },
+        {
+            "id": 8,
+            "name": "WETH-m.USDT",
+            "pair": "0x4db4ce7f5b43a6b455d3c3057b63a083b09b8376",
+            "allocPoint": 0
+        },
+        {
+            "id": 9,
+            "name": "WETH-m.USDC",
+            "pair": "0xf5988809ac97c65121e2c34f5d49558e3d12c253",
+            "allocPoint": 1500
+        },
+        {
+            "id": 10,
+            "name": "m.USDT-m.USDC",
+            "pair": "0x1cad5f8f5d4c0ad49646b2565cc0ca725e4280ea",
+            "allocPoint": 2000
+        },
+        {
+            "id": 11,
+            "name": "Metis-RELAY",
+            "pair": "0xa58bd557bfbc12f8ceaccc6e1668f5fbfb2118bb",
+            "allocPoint": 0
+        },
+        {
+            "id": 12,
+            "name": "Metis-MINES",
+            "pair": "0xa22e47e0e60caeaacd19a372ad3d14b9d7279e74",
+            "allocPoint": 0
+        },
+        {
+            "id": 13,
+            "name": "Metis-WBTC",
+            "pair": "0xe0cc462fe369146baef2306ec6b4bf26704ee84e",
+            "allocPoint": 0
+        },
+        {
+            "id": 14,
+            "name": "WBTC-m.USDT",
+            "pair": "0xad9b903451dfdc3d79d2021289f9d864fd8c8119",
+            "allocPoint": 0
+        },
+        {
+            "id": 15,
+            "name": "BUSD-m.USDC",
+            "pair": "0x8014c801f6cf32445d503f7bac30976b3161ee52",
+            "allocPoint": 0
+        },
+        {
+            "id": 16,
+            "name": "BYTE-m.USDC",
+            "pair": "0x3ab6be89ed5a0d4fdd412c246f5e6ddd250dd45c",
+            "allocPoint": 1500
+        },
+        {
+            "id": 17,
+            "name": "HERA-m.USDC",
+            "pair": "0x948f9614628d761f86b672f134fc273076c4d623",
+            "allocPoint": 0
+        },
+        {
+            "id": 18,
+            "name": "DXP-m.USDC",
+            "pair": "0x7cbb5925c65e05933da6aa5c08e49bf464ae3ed8",
+            "allocPoint": 0
+        },
+        {
+            "id": 19,
+            "name": "HUM-Metis",
+            "pair": "0x838ba1eeb49a2d8a362f3f50cad4a8284045d9c1",
+            "allocPoint": 0
+        }
+    ]
+}
