@@ -7,5 +7,18 @@
     },
     "timestamp": "2022-10-27T00:00:00+00:00",
     "address": "",
-    "farms": []
+    "farms": [
+        {
+            "id": 0,
+            "name": "DummyToken",
+            "pair": "0xD365E36086f70d187E4F5b83c912E555E57110fA",
+            "allocPoint": 100
+        },
+        {
+            "id": 1,
+            "name": "MockLPToken",
+            "pair": "0xDf4a2921Eb891A00c2Ad36Ae09D4270F24cEA868",
+            "allocPoint": 100
+        }
+    ]
 }
