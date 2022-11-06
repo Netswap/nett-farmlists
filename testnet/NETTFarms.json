@@ -18,6 +18,12 @@
             "id": 1,
             "name": "MockLPToken",
             "pair": "0xDf4a2921Eb891A00c2Ad36Ae09D4270F24cEA868",
+            "allocPoint": 0
+        },
+        {
+            "id": 2,
+            "name": "Metis/TUSDC",
+            "pair": "0xF6971Ec05557f680b0a8Cd8296C352A115a6e6bd",
             "allocPoint": 100
         }
     ]
