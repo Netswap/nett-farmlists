@@ -1,11 +1,11 @@
 {
     "name": "NETTFarms",
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     },
-    "timestamp": "2022-10-27T00:00:00+00:00",
+    "timestamp": "2024-01-03T00:00:00+00:00",
     "address": "0x9d1dbB49b2744A1555EDbF1708D64dC71B0CB052",
     "farms": [
         {
@@ -108,7 +108,7 @@
             "id": 16,
             "name": "BYTE-m.USDC",
             "pair": "0x3ab6be89ed5a0d4fdd412c246f5e6ddd250dd45c",
-            "allocPoint": 1500
+            "allocPoint": 0
         },
         {
             "id": 17,
