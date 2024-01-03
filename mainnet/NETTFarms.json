@@ -1,12 +1,14 @@
 {
     "name": "NETTFarms",
     "version": {
-        "major": 2,
+        "major": 3,
         "minor": 0,
         "patch": 0
     },
-    "timestamp": "2024-01-03T00:00:00+00:00",
+    "timestamp": "2024-01-04T00:00:00+00:00",
     "address": "0x9d1dbB49b2744A1555EDbF1708D64dC71B0CB052",
+    "NETTPerSec": "52083333333333336",
+    "totalAllocPoint": "4500",
     "farms": [
         {
             "id": 0,
@@ -24,7 +26,7 @@
             "id": 2,
             "name": "NETT-Metis",
             "pair": "0x60312d4ebbf3617d3d33841906b5868a86931cbd",
-            "allocPoint": 1000
+            "allocPoint": 1500
         },
         {
             "id": 3,
@@ -42,7 +44,7 @@
             "id": 5,
             "name": "Metis-WETH",
             "pair": "0x59051b5f5172b69e66869048dc69d35db0b3610d",
-            "allocPoint": 2000
+            "allocPoint": 1000
         },
         {
             "id": 6,
@@ -54,7 +56,7 @@
             "id": 7,
             "name": "Metis-m.USDC",
             "pair": "0x5ae3ee7fbb3cb28c17e7adc3a6ae605ae2465091",
-            "allocPoint": 1000
+            "allocPoint": 500
         },
         {
             "id": 8,
@@ -66,13 +68,13 @@
             "id": 9,
             "name": "WETH-m.USDC",
             "pair": "0xf5988809ac97c65121e2c34f5d49558e3d12c253",
-            "allocPoint": 1500
+            "allocPoint": 500
         },
         {
             "id": 10,
             "name": "m.USDT-m.USDC",
             "pair": "0x1cad5f8f5d4c0ad49646b2565cc0ca725e4280ea",
-            "allocPoint": 2000
+            "allocPoint": 1000
         },
         {
             "id": 11,
