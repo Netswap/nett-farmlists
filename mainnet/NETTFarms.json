@@ -146,7 +146,7 @@
             "id": 23,
             "name": "BEES-Metis",
             "pair": "0xdb3141d74913ccc371372ccb1c44ad686ff6f9a3",
-            "allocPoint": 400
+            "allocPoint": 0
         }
     ]
 }
