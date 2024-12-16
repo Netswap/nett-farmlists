@@ -26,7 +26,7 @@
             "id": 2,
             "name": "NETT-Metis",
             "pair": "0x60312d4ebbf3617d3d33841906b5868a86931cbd",
-            "allocPoint": 1500
+            "allocPoint": 1200
         },
         {
             "id": 3,
@@ -56,7 +56,7 @@
             "id": 7,
             "name": "Metis-m.USDC",
             "pair": "0x5ae3ee7fbb3cb28c17e7adc3a6ae605ae2465091",
-            "allocPoint": 500
+            "allocPoint": 250
         },
         {
             "id": 8,
@@ -68,7 +68,7 @@
             "id": 9,
             "name": "WETH-m.USDC",
             "pair": "0xf5988809ac97c65121e2c34f5d49558e3d12c253",
-            "allocPoint": 500
+            "allocPoint": 250
         },
         {
             "id": 10,
@@ -129,6 +129,24 @@
             "name": "HUM-Metis",
             "pair": "0x838ba1eeb49a2d8a362f3f50cad4a8284045d9c1",
             "allocPoint": 0
+        },
+        {
+            "id": 21,
+            "name": "ENKI-Metis",
+            "pair": "0x92372dc7425c4b6a05ff5aae791333de750ae9ed",
+            "allocPoint": 400
+        },
+        {
+            "id": 22,
+            "name": "ENKI-NETT",
+            "pair": "0x6b0ef40b2f08794fe280719fbc47aa42f4b16bab",
+            "allocPoint": 400
+        },
+        {
+            "id": 23,
+            "name": "BEES-Metis",
+            "pair": "0xdb3141d74913ccc371372ccb1c44ad686ff6f9a3",
+            "allocPoint": 400
         }
     ]
 }
